@@ -6,8 +6,12 @@ subtitle: Ph.D. Student in Computer Science @ <a href="https://www.cea.fr/">CEA 
 profile:
   align: right
   image: IMG_5188.jpeg
+  image_circular: false
   address: >
     Paris, France
+news: false 
+selected_papers: true
+social: true
 ---
 
 I am a Ph.D. student at **CEA (Commissariat à l'énergie atomique)** and **Paris-Saclay University**, conducting research on **Tensor Methods for Deep Neural Network Compression**.
