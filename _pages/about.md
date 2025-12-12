@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. Student in Computer Science @ <a href="https://www.cea.fr/">CEA List</a>
 profile:
   align: right
-  # image: prof_pic.jpg
+  image: IMG_5188.jpeg
   address: >
     Paris, France
 ---
