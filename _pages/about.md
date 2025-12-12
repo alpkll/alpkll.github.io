@@ -10,9 +10,13 @@ profile:
     Paris, France
 ---
 
-I am a Ph.D. student at **CEA (Commissariat à l'énergie atomique)** and **Paris-Saclay University**, working on **Tensor Methods for Deep Neural Network Compression**. My research focuses on developing novel tensor decomposition algorithms to reduce parameter count and FLOPs in deep learning models while maintaining accuracy.
+I am a Ph.D. student at **CEA (Commissariat à l'énergie atomique)** and **Paris-Saclay University**, conducting research on **Tensor Methods for Deep Neural Network Compression**.
 
-Previously, I completed my Master's in Applied Mathematics at **Toulouse III - Paul Sabatier University** and worked as a Research Intern at **IRIT & IMT**, analyzing tensor-based Gaussian Mixture Models.
+My research addresses the challenges of deploying large-scale deep learning models on resource-constrained edge devices. Specifically, I investigate the joint optimization of **Tensor Decomposition** with other compression paradigms, including **Low-Bit Quantization** and **Structured Pruning**. My work aims to develop "compound" compression strategies that significantly reduce model complexity (parameters and FLOPs) without compromising accuracy.
 
-### News
-* **[Dec 2025]** My paper *"Distribution-Aware Tensor Decomposition"* was accepted to **NeurIPS 2025**!
+Prior to my doctoral studies, I obtained a Master's degree in Applied Mathematics from **Toulouse III - Paul Sabatier University**. My previous research at **IRIT & IMT** focused on the theoretical analysis of tensor-based Gaussian Mixture Models in the large-dimensional regime.
+
+***
+
+### 📢 News
+* **[Dec 2025]** My paper *"Distribution-Aware Tensor Decomposition"* has been accepted to **NeurIPS 2025**!
