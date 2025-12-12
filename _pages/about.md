@@ -14,7 +14,7 @@ news: false
 social: true
 ---
 
-I am a Ph.D. student at **CEA (Commissariat à l'énergie atomique)** and **Paris-Saclay University**, conducting research on **Tensor Methods for Deep Neural Network Compression**.
+I am a Ph.D. student at **CEA (Commissariat à l'énergie atomique)** and **Paris-Saclay University**, on the title **"Tensor Methods for Deep Neural Network Compression"**.
 
 My research addresses the challenges of deploying large-scale deep learning models on resource-constrained edge devices. Specifically, I investigate the joint optimization of **Tensor Decomposition** with other compression paradigms, including **Low-Bit Quantization** and **Structured Pruning**. My work aims to develop "compound" compression strategies that significantly reduce model complexity (parameters and FLOPs) without compromising accuracy.
 
