@@ -14,9 +14,9 @@ news: false
 social: true
 ---
 
-Hello, I am a Ph.D. student at **CEA (Commissariat à l'énergie atomique)** and **Paris-Saclay University**, with the title of my thesis **"Tensor Methods for Deep Neural Network Compression"**.
+Hello, I am a Ph.D. student at **CEA Paris-Saclay** and **Paris-Saclay University**, with the title of my thesis **"Tensor Methods for Deep Neural Network Compression"**.
 
-My research addresses the challenges of deploying large-scale deep learning models on resource-constrained edge devices. Specifically, I investigate the joint optimization of **Tensor Decomposition** with other compression paradigms, including **Low-Bit Quantization** and **Structured Pruning**. My work aims to develop "compound" compression strategies that significantly reduce model complexity (parameters and FLOPs) without compromising accuracy.
+My research addresses the challenges of deploying large-scale deep learning models on resource-constrained edge devices. Specifically, I develop novel **Tensor Decomposition** algorithms and investigate the joint optimization of **Tensor Decomposition** with other compression paradigms, including **Low-Bit Quantization** and **Pruning**. My work aims to develop compound compression strategies that significantly reduce model complexity (parameters and FLOPs) without compromising accuracy.
 
 Prior to my doctoral studies, I obtained a Master's degree in Applied Mathematics from **Toulouse III - Paul Sabatier University**. My previous research at **Institut de Recherche en Informatique de Toulouse (IRIT) & Institut de Mathématiques de Toulouse (IMT)** focused on the analysis of tensor-based parameter estimation for Gaussian Mixture Models in the large-dimensional regime.
 
