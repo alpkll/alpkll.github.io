@@ -23,4 +23,6 @@ Prior to my doctoral studies, I obtained a Master's degree in Applied Mathematic
 ***
 
 ### 📢 News
+* **[Dec 2025]** Our paper *"Whitening Spherical Gaussian Mixtures in the Large-Dimensional Regime"*  has been accepted to **IEEE ICASSP 2026**!
+
 * **[Dec 2025]** Our paper *"Distribution-Aware Tensor Decomposition for Compression of CNNs"*  has been accepted to **NeurIPS 2025**!
