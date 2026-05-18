@@ -14,7 +14,7 @@ news: false
 social: true
 ---
 
-Hello, I am a Ph.D. student at **CEA Paris-Saclay** and **Paris-Saclay University**, with the title of my thesis **"Tensor Methods for Deep Neural Network Compression"**.
+Hello, I am a Ph.D. student at **CEA Paris-Saclay** and **Paris-Saclay University**, working on **"Tensor Methods for Deep Neural Network Compression"**.
 
 My research addresses the challenges of deploying large-scale deep learning models on resource-constrained edge devices. Specifically, I develop novel **Tensor Decomposition** algorithms and investigate the joint optimization of **Tensor Decomposition** with other compression paradigms, including **Low-Bit Quantization** and **Pruning**. My work aims to develop compound compression strategies that significantly reduce model complexity (parameters and FLOPs) without compromising accuracy.
 
