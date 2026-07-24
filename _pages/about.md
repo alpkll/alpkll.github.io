@@ -23,6 +23,8 @@ Prior to my doctoral studies, I obtained a Master's degree in Applied Mathematic
 ***
 
 ### 📢 News
+* **[June 2026]** Presented *"Distribution-Aware Tensor Decomposition for Compression of CNNs"* at the [**PEPR IA Days 2026**](https://pepr-ia-days.sciencesconf.org/), Rennes.
+  
 * **[Apr 2026]** Presented *"Distribution-Aware Tensor Decomposition for Compression of CNNs"* at the [**GdR IASIS Workshop on Frugality and Compression of Deep Learning Models**](https://gdr-iasis.cnrs.fr/reunions/frugality-and-compression-of-deep-learning-models/), Université Paris Cité.
 
 * **[Jan 2026]** Our paper *"Whitening Spherical Gaussian Mixtures in the Large-Dimensional Regime"*  has been accepted to **IEEE ICASSP 2026**!
